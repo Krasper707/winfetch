@@ -1,7 +1,6 @@
 # WinFetch
 
 A simple, dependency-free, Neofetch-like system information tool for Windows, written in pure Python.
-_(Note: This is a representative image. Your output will reflect your system's specs and color scheme.)_
 
 ## About The Project
 
@@ -114,3 +113,4 @@ The `subprocess` module in Python executes these commands, captures their output
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
